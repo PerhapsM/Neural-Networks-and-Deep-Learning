@@ -4,9 +4,9 @@
 * WEEK 1 - Introduction to deep learning
 * WEEK 2 - Neural Networks Basics
     * [Python Basics with numpy](http://nbviewer.jupyter.org/github/luonglearnstocode/neural-networks-and-deep-learning/blob/master/week2-neural-networks-basics/Python-Basics-With-Numpy-v3.ipynb)
-    * [Logistic Regression with a Neural Network mindset](http://nbviewer.jupyter.org/github/luonglearnstocode/neural-networks-and-deep-learning/blob/master/week2-neural-networks-basics/Logistic-Regression-with-a-Neural-Network-mindset-v4.ipynb)
+    * [Logistic Regression with a Neural Network mindset](Week2_Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 * WEEK 3 - Shallow neural networks
-    * [Planar data classification with a hidden layer](http://nbviewer.jupyter.org/github/luonglearnstocode/neural-networks-and-deep-learning/blob/master/week3-shallow-neural-networks/Planar-data-classification-with-one-hidden-layer-v4.ipynb)
+    * [Planar data classification with a hidden layer](Week3_Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 * WEEK 4 - Deep Neural Networks
-    * [Building your Deep Neural Network: Step by Step](http://nbviewer.jupyter.org/github/luonglearnstocode/neural-networks-and-deep-learning/blob/master/week4-deep-neural-networks/Building-your-Deep-Neural-Network-Step-by-Step-v5.ipynb)
-	* [Deep Neural Network - Application](http://nbviewer.jupyter.org/github/luonglearnstocode/neural-networks-and-deep-learning/blob/master/week4-deep-neural-networks/Deep-Neural-Network-Application-v3.ipynb)
+    * [Building your Deep Neural Network: Step by Step](Week4_Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+    * [Deep Neural Network - Application](Week4_Deep_Neural_Network_Application_v8.ipynb)
