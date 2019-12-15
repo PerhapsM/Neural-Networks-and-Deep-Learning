@@ -3,7 +3,7 @@
 
 * WEEK 1 - Introduction to deep learning
 * WEEK 2 - Neural Networks Basics
-    * [Python Basics with numpy](http://nbviewer.jupyter.org/github/luonglearnstocode/neural-networks-and-deep-learning/blob/master/week2-neural-networks-basics/Python-Basics-With-Numpy-v3.ipynb)
+    * [Python Basics with numpy](Week2_Python_Basics_With_Numpy_v3a.ipynb)
     * [Logistic Regression with a Neural Network mindset](Week2_Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 * WEEK 3 - Shallow neural networks
     * [Planar data classification with a hidden layer](Week3_Planar_data_classification_with_onehidden_layer_v6c.ipynb)
